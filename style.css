@@ -1,0 +1,45 @@
+body {
+  background-color: aquamarine;
+}
+section {
+  background-color: blueviolet;
+}
+h1 {
+  background-color: antiquewhite;
+  color: red;
+}
+p {
+  background-color: black;
+  color: white;
+}
+h2 {
+  background-color: brown;
+  color: aqua;
+}
+h2 + p {
+  background-color: green;
+  color: black;
+}
+ol {
+  background-color: purple;
+}
+.one {
+  background-color: orange;
+  color: blue;
+}
+.two {
+  background-color: white;
+  color: violet;
+}
+.three {
+  background-color: red;
+  color: green;
+}
+.four {
+  background-color: black;
+  color: yellow;
+}
+.five {
+  background-color: blue;
+  color: red;
+}
